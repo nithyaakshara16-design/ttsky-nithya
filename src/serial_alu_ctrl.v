@@ -52,7 +52,7 @@
 `default_nettype none
 
 module serial_alu_ctrl (
-    // ── Entradas de control ───────────────────────────────────────────────────
+    // ── Entradas de control -───────────────────────────────────────────────────
     input  wire       CLK,        // Reloj del sistema
     input  wire       RST_n,      // Reset activo-bajo  (/RST en el enunciado)
 
