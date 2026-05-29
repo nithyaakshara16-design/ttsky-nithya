@@ -34,7 +34,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-   uo[0]: "Data_out[0] — Result bit 0 (LSB)"
+  uo[0]: "Data_out[0] — Result bit 0 (LSB)"
   uo[1]: "Data_out[1] — Result bit 1"
   uo[2]: "Data_out[2] — Result bit 2"
   uo[3]: "Data_out[3] — Result bit 3"
